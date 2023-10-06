@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 selenium
-https://stepik.org/lesson/187065/step/7?unit=161976
+https://stepik.org/course/575/syllabus
